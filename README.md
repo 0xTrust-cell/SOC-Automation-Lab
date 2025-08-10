@@ -16,7 +16,7 @@ The lab runs entirely in **VMware Workstation** on a single host machine, using 
 ---
 
 ## 🖥️ Network Diagram
-![Network Diagram](https://drive.google.com/file/d/137K6W_xPWLbAi6AzhgTBLEnA_tYVT3xa/view?usp=sharing)
+![Network Diagram](https://github.com/0xTrust-cell/SOC-Automation-Lab/blob/main/Network%20Diagram.pdf)
 
 ---
 
