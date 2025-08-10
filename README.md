@@ -43,7 +43,7 @@ The lab runs entirely in **VMware Workstation** on a single host machine, using 
 
 ---
 
-## 🛠️ Step-by-Step Build Guide
+## 🛠️ Step-by-Step Build Guide (WIP)
 The full setup guide is documented in [`docs/setup-guide.md`](docs/setup-guide.md).
 
 ---
